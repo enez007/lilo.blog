@@ -4,6 +4,7 @@ date = "2024-03-01"
 draft = false
 pinned = false
 image = ""
+description = "Deutsch Interview \n"
 +++
  **Interview**
 
