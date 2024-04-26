@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Ena Bilmez "
-description = "Reportagen Project "
+description = "Schul Projekte "
 footerLeft = "*Powered by 💜 Lilo.page*"
 footerRight = "***🏷️ [Tags](/tags/) | 🗃️ [Archive](/posts/)***"
 +++
