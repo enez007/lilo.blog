@@ -8,7 +8,7 @@ pinned = false
 
 Marijan Sudic ist 1982 in Zagreb geboren und hat seine ersten neun Lebensjahre in Bosnien verbracht, danach verbrachte er vier Jahre in Kroatien. Bevor seine Familie sich entschied, drei Jahre in Neu Zealand zu verbringen, um dann endgültig in Australien zu leben, war Marijan noch ein Jahr in England. Marijan war bis 2017 in Australien, bis er sich entschied zurück nach Kroatien zu kehren, dort befindet er sich momentan. 
 
-![](image-1-1.jpg)
+![Marijan Sudic, 41 Jahre alt ](image-1-1.jpg)
 
 **Um anzufangen, wieso sind sie so viel Umgezogen?** Nach dem Krieg im damaligen Jugoslawien, Zwischen 91 und 94, sind wir nach London gezogen, um Englisch zu lernen, da ich und meine Familie kein Englisch konnte. Damals war ich 12 
 
