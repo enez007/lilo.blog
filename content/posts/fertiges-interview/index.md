@@ -3,6 +3,7 @@ title = " Interview "
 date = "2024-04-22"
 draft = false
 pinned = false
+image = "image-1-1.jpg"
 +++
 ***Sind Sie viel Umgezogen in ihrem Leben? Haben Sie verschiedene Kontinente ihre Heimat genannt? Marijan Sudic kann genau dies behaupten.***
 
