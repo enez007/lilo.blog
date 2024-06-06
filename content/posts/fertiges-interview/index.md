@@ -5,6 +5,10 @@ draft = false
 pinned = false
 image = "image-1-1.jpg"
 +++
+\#Interview #Reisen #Australien #Kroatien #NeuZeeland #England #Bosnien 
+
+# ***Über den horizon hin aus: Ein Man 5 Länder*** 
+
 ***Sind Sie viel Umgezogen in ihrem Leben? Haben Sie verschiedene Kontinente ihre Heimat genannt? Marijan Sudic kann genau dies behaupten.***
 
 Marijan Sudic ist 1982 in Zagreb geboren und hat seine ersten neun Lebensjahre in Bosnien verbracht, danach verbrachte er vier Jahre in Kroatien. Bevor seine Familie sich entschied, drei Jahre in Neu Zealand zu verbringen, um dann endgültig in Australien zu leben, war Marijan noch ein Jahr in England. Marijan war bis 2017 in Australien, bis er sich entschied zurück nach Kroatien zu kehren, dort befindet er sich momentan. 
