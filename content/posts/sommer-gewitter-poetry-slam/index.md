@@ -5,7 +5,6 @@ draft = false
 pinned = false
 image = "ghc.jpeg"
 +++
-# **Sommer Gewitter**
 
  
 
