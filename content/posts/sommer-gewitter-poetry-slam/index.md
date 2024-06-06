@@ -5,11 +5,11 @@ draft = false
 pinned = false
 image = "ghc.jpeg"
 +++
-Sommer Gewitter
+# **Sommer Gewitter**
 
  
 
-Baaaam! Die Fenster knallen zu
+*Baaaam!* Die Fenster knallen zu
 
 Der Wind peitsch durch das Haus 
 
@@ -23,7 +23,7 @@ Sie schrie verzweifelt auf 
 
 So wollte sie den Tag nicht verbringen 
 
-Da hörte sie es, sie hörte es kommen, sie hörte es 
+Da hörte sie es, sie hörte es kommen, sie hörte es…
 
  
 
@@ -49,17 +49,19 @@ Die Stille für den Verstand, wunderschön 
 
 Die Wärme für das Herz, bewundernswert 
 
-Die Was will man mehr als ein Sommer Gewitter 
+Was will man mehr als 
+
+ein Sommer Gewitter 
 
  
 
 Sie zündete Kerzen an, um eine trübe und altertümliche Atmosphäre zu schaffen, Kerzen 
 
-Nahm ein Buch, einen Roman, um genau zu sein «Ein Sommernachtstraum» das beste Buch
+Nahm ein Buch, um genau zu sein «Ein Sommernachtstraum» das Beste Buch
 
-Fand sie ein gutes Buch für unsere romantischen Herzen 
+Fand sie ein gutes Buch für die romantischen Herzen 
 
-Da, plötzlich, ein knall, baam, es kam Besuch! 
+Dann, da, plötzlich, ein knall, *baam*, es kam Besuch! 
 
  
 
@@ -73,7 +75,7 @@ Doch war nicht mal ein Viertel Zentner 
 
  
 
-Sommer Gewitter haben ihr schon vieles gebracht 
+Sommer Gewitter haben Ihr schon vieles gebracht 
 
 Freude, Zufriedenheit, Beruhigung, Stille, 
 
@@ -93,21 +95,25 @@ Unberechenbar magisch 
 
 Während der Regen unaufhörlich prasselt 
 
-die Blitze den dunklen Himmel zerschneiden, 
+Die Blitze den dunklen Himmel zerschneiden, 
 
-lässt sie ihre Gedanken schweifen. 
+lässt sie ihre Gedanken schweifen 
 
  
 
 Erinnerungen an vergangene Sommer steigen auf, 
 
-mit Momenten des Glücks und Melancholie 
+mit Momenten des Glücks 
 
  
 
 Gewitter haben stets eine besondere Faszination auf sie ausgeübt.
 
-Sie liebt das Gefühl von Aufregung und Ehrfurcht, dass sie jedes Mal überkommt, 
+Sie liebt das Gefühl von 
+
+Aufregung und Ehrfurcht, 
+
+dass sie jedes Mal überkommt, 
 
 wenn die Natur ihre Kräfte entfesselt.
 
@@ -115,46 +121,76 @@ Das unaufhörliche Trommeln des Regens beruhigt sie zunehmend.
 
  
 
- Der Vogel, der inzwischen in einem sicheren Winkel des Raums Zuflucht gefunden hat, scheint ebenfalls zur Ruhe gekommen zu sein. 
+ Der Vogel, 
 
-Die Verbindung zwischen Menschen und Natur wird in diesen Momenten besonders deutlich. Beide suchen Schutz und finden Ruhe in der Präsenz des anderen.
+der inzwischen in einem sicheren Winkel des Raums Zuflucht gefunden hat,
+
+scheint ebenfalls zur Ruhe gekommen zu sein. 
+
+Die Verbindung zwischen Menschen und Natur 
+
+wird in diesen Momenten besonders deutlich 
+
+Beide suchen Schutz und finden Ruhe in der Präsenz des anderen.
 
  
 
-Das Gewitter tobt weiter, und sie vertieft sich in ihr Buch. 
+Das Gewitter tobt weiter, 
 
-Die Kerzen brennen ruhig, ihre Flammen tanzen im sanften Luftzug. 
+Sie vertieft sich in ihr Buch. 
 
-Draußen wütet der Sturm, doch drinnen ist es warm und behaglich. 
+Die Kerzen brennen ruhig, 
 
-Sie fühlt sich geborgen, als hätte das Gewitter sie in eine schützende Hülle aus Klang und Licht eingehüllt.
+ihre Flammen tanzen im sanften Luftzug. 
 
-Sommergewitter, sie sind mehr als nur ein Wetterphänomen. 
+Draußen wütet der Sturm, 
+
+doch drinnen ist es warm und behaglich. 
+
+Sie fühlt sich geborgen, 
+
+als hätte das Gewitter sie in eine schützende Hülle aus Klang und Licht eingehüllt.
+
+ 
+
+Sommergewitter,
+
+Sie sind mehr als nur ein Wetterphänomen. 
 
 Sie sind eine Erinnerung an all unsere vorherigen Erinnerungen 
 
 An all die Momente die wirklich zählen 
 
-Den erst wenn das Gewitter kommt, dann hat man zeit über diese Momente nachzudenken
+Denn erst wenn das Gewitter kommt, 
+
+dann hat man Zeit über diese wundervollen Momente nachzudenken
 
 Um sich an sie zu erinnern 
 
-Den jetzt sind sie bloss eine Erringung
+Denn jetzt sind sie bloss eine Erinnerung
 
-Eine Erinnerung an was mall war 
+Eine Erinnerung an was mall war
+
+ 
+
+ 
+
+ 
+
+ 
 
  
 
 So ist es eben, dieses 
 
-kalte jedoch warme 
+Kalte jedoch warme 
 
-angsteinflössende jedoch wunderschöne 
+Angsteinflössende jedoch wunderschöne 
 
-laute jedoch beruhigende 
-
- 
+Laute jedoch beruhigende 
 
  
 
-Sommer Gewitter
+Dieses, 
+
+**Sommer Gewitter**
