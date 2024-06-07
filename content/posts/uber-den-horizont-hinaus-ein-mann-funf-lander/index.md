@@ -10,7 +10,7 @@ image = "jbk.jpeg"
 
 *In einer Zeit in welcher die meisten nur ein Land ihr Zuhause nannten, fang der kleine Marian Šudic seine Reisen durch die Welt an. Heute erzählt er von seinem aussergewöhnlichen Leben und teilt seine Erfahrungen aus fünf verschieden Ländern*
 
-{{<box title="Ausklappbare Box">}}
+{{<box title="Hintergrund Informationen">}}
 Während dem Jugoslavischen Krieg sind viele Leute geflüchtet. 
 
 Marijan Šudic ist nicht geflüchtet, seine Familie hat schon länger geplant wegzuziehen. Der Krieg hat dies nur beschleunigt. 
