@@ -11,10 +11,15 @@ image = "jbk.jpeg"
 *In einer Zeit in welcher die meisten nur ein Land ihr Zuhause nannten, fang der kleine Marian Šudic seine Reisen durch die Welt an. Heute erzählt er von seinem aussergewöhnlichen Leben und teilt seine Erfahrungen aus fünf verschieden Ländern*
 
 {{<box title="Ausklappbare Box">}}
-Auklappbare Box
+Während dem Jugoslavischen Krieg sind viele Leute geflüchtet. 
+
+Marijan Šudic ist nicht geflüchtet, seine Familie hat schon länger geplant wegzuziehen. Der Krieg hat dies nur beschleunigt. 
+
+Jemand der viel durch die Welt reist wir Weltenbummler gennant, Marijan ist genau dies. Er reist sehr viel um die Welt, meist aber nur für seine Arbeit oder als Tourist. 
+
 {{</box>}}
 
-![]()
+![Marijan Šudic](image-1-1.jpg)
 
 An einem kalten Winterabend im österreichischem Süd Tirol setzt sich Marijan Šudic auf einem gemütlichen Sessel. Der Raum wird von einem leicht orangen Licht überflutet. Aus dem Fenster kann man im Sonnenuntergang das Schöneben Skigebiet beobachten. Marijan macht es sich im stillen Raum gemütlich, atmet einmal tief ein, fängt an über seine Reisen durch die Welt, seine Bedeutung von Heimat und sein Leben an zu berichten. 
 
